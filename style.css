@@ -90,3 +90,28 @@ h1{
     transform: scale(1);
   }
 }
+h2 {
+    padding-left: 20px;
+    text-align: center;
+    font-size: 35px;
+    color: rgb(37, 33, 33);
+   
+}
+#chess {
+    text-align: center;
+    text-decoration: none;
+    padding-bottom: 30px;
+}
+.mour {
+    background-color: #66cd44;
+    padding: 20px;
+}
+button {
+    padding: 10px;
+    background-color: rgb(240, 46, 21);
+    color: white;
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius: 10px;
+    cursor: pointer;
+}
